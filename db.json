@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Kolade",
+    "favFriends": [
+      "Kolade",
+      "Nithya",
+      "Rocco",
+      "Jack"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Nithya",
+    "favFriends": [
+      "Kolade",
+      "Nithya",
+      "Rocco",
+      "Jack"
+    ],
+    "continent": "America"
+  },
+  {
+    "name": "Rocco",
+    "favFriends": [
+      "Kolade",
+      "Nithya",
+      "Rocco",
+      "Jack"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Jack",
+    "favFriends": [
+      "Kolade",
+      "Nithya",
+      "Rocco",
+      "Jack"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Andres",
+    "favFriends": [
+      "Juan",
+      "Pablo",
+      "Miguel",
+      "Angel"
+    ],
+    "continent": "America"
+  },
+  {
+    "name": "Juan",
+    "favFriends": [
+      "Pablo",
+      "Andres",
+      "Miguel",
+      "Jack"
+    ],
+    "continent": "America"
+  },
+  {
+    "name": "Miguel",
+    "favFriends": [
+      "Juan",
+      "Andres",
+      "Miguel",
+      "Pablo"
+    ],
+    "continent": "America"
+  }
+]
